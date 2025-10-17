@@ -10,3 +10,5 @@ node_modules/
 Dockerfile.dev
 docker-compose.yml
 Dockerfile
+*.docx
+Ejercicio/
